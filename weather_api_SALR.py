@@ -1,0 +1,1 @@
+weather_api_SALR = '9072b000bc12ecd2dde8f1cb341d7a15'
